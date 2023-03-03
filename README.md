@@ -70,3 +70,27 @@ use it in your own bot projects.
 [the Quickstart guide]: https://telegrambots.github.io/book/1/quickstart.html
 [Telegram.Bot.Extensions.LoginWidget]: https://github.com/TelegramBots/Telegram.Bot.Extensions.LoginWidget
 [Telegram.Bot.Extensions.Passport]: https://github.com/TelegramBots/Telegram.Bot.Extensions.Passport
+
+<!-- --- -->
+CES Class
+
+## What is Telegram.Bot?
+Telegram.Bot is the most popular .NET Client for Telegram Bot API. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
+
+## How alive is the project?
+The project was started on July 28, 2015. The project has 2.6k stars on Github. During the last month 14 pull requests were merged, 2 issues were closed and 2 new issues were opened. For March 3 it has 43 contributors and has a group chat in Telegram to ask questions and a channel in Telegram with news and 
+updates. 
+
+## What is it suitable for? 
+This API allows to build customized Telegram clients which are special accounts that do not require an additional phone number to set up. These accounts serve as an interface for code running somewhere on a server.
+
+## What are the technologies involved?
+Web Based;
+Languages:
+- C#;
+Libraries:
+- .net;
+
+## Are there many issues to fix?
+The project has 33 issues to fix at this time.
+
